@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "orbitx-1a14d": {
+      "hosting": {
+        "angular-spacex-graphql-codegen": [
+          "orbitx-1a14d"
+        ]
+      }
+    }
+  }
+}
