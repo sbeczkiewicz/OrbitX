@@ -11,3 +11,8 @@ Clone repo
 `npm install`
 `npm start`
 
+-OR-
+
+Site is deployed at https://orbitx-1a14d.web.app
+This is technically a PWA too, so it is downloadable from your browser.
+
